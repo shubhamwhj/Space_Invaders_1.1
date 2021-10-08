@@ -30,6 +30,11 @@ while True:
     if enemy.x == 0:
         enemyspeed=enemyspeed * -1
         enemy.y= enemy.y + 20
+
+#Put the code at correct indentation and complete the if condition        
+if enemy.x ==  :
+        enemyspeed=enemyspeed * -1
+        enemy.y= enemy.y + 20
     
             
     pygame.draw.rect(screen,(123,200,100),enemy)
